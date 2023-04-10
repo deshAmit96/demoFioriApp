@@ -1,2 +1,0 @@
-# demoFioriApp
-demo app fiori
