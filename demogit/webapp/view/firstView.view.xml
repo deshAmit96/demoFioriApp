@@ -5,6 +5,7 @@
         <content>
         <Button id="idbtTouch" 
         text="Touch me"></Button>
+        <Button id="idDev1Button" text="dont touch"></Button>
         </content>
     </Page>
 </mvc:View>
